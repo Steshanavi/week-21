@@ -6,7 +6,7 @@ int main()
 {
   int number, Square;
  
-  printf(" \n Please Enter any integer Value : /");
+  printf(" \n Please Enter any integer Value : ");
   scanf("%d", &number);
   
   Square = number * number;
