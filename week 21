@@ -11,7 +11,7 @@ int main()
   
   Square = number * number;
   
-  printf("\n Square of a given number %d is  =  %d", number, Square//);
+  printf("\n Square of a given number %d is  =  %d", number, Square);
  
   return 0;
 }
