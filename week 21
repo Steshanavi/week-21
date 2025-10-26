@@ -1,6 +1,6 @@
 /* C Program to Calculate Square of a Number */
  
-#include<stdio.h>//**
+#include<stdio.h>//
  
 int main()
 {
