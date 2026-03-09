@@ -13,5 +13,5 @@ int main()
   
   printf("\n Square of a given number %d is  =  %d", number, Square);
  
-  return 0;//
+  return 0;
 }
